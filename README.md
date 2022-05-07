@@ -1,2 +1,2 @@
 # hello-world
-First repository!
+First repository! *Have to start somewhere!*
